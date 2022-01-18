@@ -29,7 +29,7 @@ Building a RESTful API using NodeJS technology.
 
 ## 🧑‍💻 Project
 
-The "Pipedrive and Bling Integration", is an integration that aims to test my skills to be part of the amazing [LinkApi](https://www.linkapi.solutions/). The API searches Pipedrive for Opportunities with a status of Won and passes the information as a Purchase Order to Bling. Integration is done with: NodeJS, Javscript, , Express, MongoDB, Bling API and Pipedrive API
+The "Pipedrive and Bling Integration", is an integration that aims to test my skills to be part of the amazing [LinkApi](https://www.linkapi.solutions/). The API searches Pipedrive for Opportunities with a status of Won and passes the information as a Purchase Order to Bling. Integration is done with: NodeJS 📗, Javscript 📒, Express 📗, MongoDB 📗, Bling API 📘  and Pipedrive API 📕
 
 ## 🚀 Technologies
 
