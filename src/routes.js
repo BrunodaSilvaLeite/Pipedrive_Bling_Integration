@@ -4,5 +4,5 @@ const InsertOrderController = require('./controller/InsertOrderController');
 const ListAllOrdersController = require('./controller/ListAllOrdersController');
 
 router.post("/CreateOrders", InsertOrderController.create);
-router.get("/Teste", ListAllOrdersController.handle);
+router.get("/ListAllOrders", ListAllOrdersController.handle);
 module.exports = router;
