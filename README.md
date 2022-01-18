@@ -8,7 +8,6 @@
     <a href="#-Project ">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-Technologies">Technologies</a>
     <a href="#-Run project ">Run project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-License">License</a>
 </p>
 
 ## ✏️ Objective
@@ -49,7 +48,5 @@ The "Pipedrive and Bling Integration", is an integration that aims to test my sk
 - Run `yarn start` or `npm run start` to run the server;
 - By default the server will run at `localhost:3000`.
 
-## :memo: License
 
-This project is under License MIT. See the documentation [LICENSE](LICENSE) for more details.
 
