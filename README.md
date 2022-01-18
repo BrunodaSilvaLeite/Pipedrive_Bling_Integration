@@ -7,7 +7,7 @@
     <a href="#-Requirements ">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-Project ">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-Technologies">Technologies</a>
-    <a href="#-Run project ">Run project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Run project ">Run project</a>
 </p>
 
 ## ✏️ Objective
