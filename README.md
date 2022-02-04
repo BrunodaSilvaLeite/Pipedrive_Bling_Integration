@@ -1,5 +1,5 @@
 <p align = "center" >
-  <h1 align="center">Pipedrive and Bling Integration 📝</h1>
+  <h1 align="center">Pipedrive And Bling Integration 📝</h1>
 </p>
 
 <p align="center">
